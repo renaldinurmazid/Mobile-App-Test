@@ -1,0 +1,25 @@
+{
+    "types": [
+        {
+            "name": "Economy",
+            "capacity": 3,
+            "price": 100.35,
+            "desc":"Most economical choice",
+            "id": 0
+        },
+        {
+            "name": "Plus",
+            "capacity": 4,
+            "price": 143.53,
+            "desc":"Additional space & comfort",
+            "id": 1
+        },
+        {
+            "name": "Premium",
+            "capacity": 5,
+            "price": 186.70,
+            "desc":"Luxury experience",
+            "id": 2
+        }
+    ]
+}
